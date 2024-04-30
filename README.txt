@@ -1,4 +1,4 @@
-##Sea Battle Game - Python
+Sea Battle Game - Python
 
 A SeaBattle game implemented by me as my pet project. The graphics and gameplay mechanics were adapted from the youtube guide to create an enjoyable gaming experience.
 
